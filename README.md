@@ -1,2 +1,2 @@
 # HangmanGame
-The hangman game multiplayer
+The hangman game multiplayer with pygame
